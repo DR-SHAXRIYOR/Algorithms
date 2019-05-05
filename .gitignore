@@ -1,3 +1,7 @@
 *.iml
 .idea
 .vscode
+.history
+*.class
+target/
+out/
