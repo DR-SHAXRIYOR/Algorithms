@@ -1,4 +1,4 @@
-package week1;
+package week1;  
 
 import week1.WeightedQuickUnionUF;
 import java.util.Scanner;
@@ -24,3 +24,4 @@ public class Main {
 
     }
 }
+//good
